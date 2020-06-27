@@ -1,12 +1,12 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/AID_3N)
+    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/naamnhibtaunga)
               🎈 @DX_BOTZ 🎈
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @AID_3N"
+    UPGRADE_TEXT = "CONTACT @naamnhibtaunga"
     DOWNLOAD_START = "Downloading The File"
     UPLOAD_START = "Uploading........."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
@@ -14,7 +14,7 @@ SEE /help For My Features"""
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @AID_3N"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @AID_3N"
-    SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Set Aaayii"
+    SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Set Successfully"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
@@ -36,7 +36,7 @@ SEE /help For My Features"""
     ➡Convert Streamable File(Video) To File.
     ➡ FOR Downloading Files At Highspeed Join @TELEGRAM"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
-    IFLONG_FILE_NAME = """Cheriya Name Aaakadeey"""
+    IFLONG_FILE_NAME = """File Name Chota Karo Bhai"""
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
     CANCEL_STR = "Process Cancelled"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
