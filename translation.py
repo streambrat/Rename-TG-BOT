@@ -27,7 +27,8 @@ SEE /help For My Features"""
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Feneomovies_web
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Kookuoriginals_web
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Eightshot_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Primeflix_web"""
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Primeflix_web
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@hoichoioriginals_web"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
