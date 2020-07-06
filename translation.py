@@ -18,7 +18,10 @@ SEE /help For My Features"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
-    CUSTOM_CAPTION_UL_FILE = """✯ ━━━━━━ ✧ ━━━━━━ ✯"""
+    CUSTOM_CAPTION_UL_FILE = """<b>JOIN GROUP➣</b> <a href="https://t.me/joinchat/NHBcN0lP1By_OJGZfIbwXA">CLICK HERE</a>
+    <b>JOIN BRATFLIX BOLLYWOOD➣</b> <a href="https://t.me/joinchat/AAAAAEuBiwKzjvAnI1X6IA">CLICK HERE</a>
+    <b>JOIN BRATFLIX HOLLYWOOD➣</b> <a href="https://t.me/joinchat/AAAAAEpVEgQCfq4ZkGfabg">CLICK HERE</a>
+    ✯ ━━━━━━ ✧ ━━━━━━ ✯"""
     HELP_USER = """How To Use Me
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
