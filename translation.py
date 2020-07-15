@@ -19,7 +19,6 @@ SEE /help For My Features"""
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """
-⊱ ────  @BRATFLIX  ──── ⊰
 <b>Join Group➣</b> <a href="https://t.me/joinchat/NHBcN0lP1By_OJGZfIbwXA">Click Here</a>
 <b>For Bollywood➣</b> <a href="https://t.me/joinchat/AAAAAEuBiwKzjvAnI1X6IA">Click Here</a>
 <b>For Hollywood➣</b> <a HREF="https://t.me/joinchat/AAAAAEpVEgQCfq4ZkGfabg">Click Here</a>
