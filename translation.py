@@ -20,16 +20,10 @@ SEE /help For My Features"""
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """
 ⊱ ────  @BRATFLIX  ──── ⊰
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Hotshot_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Gupchup_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Team_adult
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Flizmovies_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Feneomovies_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Kookuoriginals_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Eightshot_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@Primeflix_web
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻➣@hoichoioriginals_web
-GROUP➣@Fliz_hotshot_request"""
+<b>Join Group➣</b> <a href="https://t.me/joinchat/NHBcN0lP1By_OJGZfIbwXA">Click Here</a>
+<b>For Bollywood➣</b> <a href="https://t.me/joinchat/AAAAAEuBiwKzjvAnI1X6IA">Click Here</a>
+<b>For Hollywood➣</b> <a HREF="https://t.me/joinchat/AAAAAEpVEgQCfq4ZkGfabg">Click Here</a>
+✯ ━━━━━━ ✧ ━━━━━━ ✯"""
     HELP_USER = """<b>How To Use Me</b>
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
