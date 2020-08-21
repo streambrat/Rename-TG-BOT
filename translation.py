@@ -1,12 +1,12 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/naamnhibtaunga)
-              🎈 @DX_BOTZ 🎈
+    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/Af51a)
+              🎈 @Af51a 🎈
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @naamnhibtaunga"
+    UPGRADE_TEXT = "CONTACT @Af51a"
     DOWNLOAD_START = "Downloading The File"
     UPLOAD_START = "Uploading........."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
